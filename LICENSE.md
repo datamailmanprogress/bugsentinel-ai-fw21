@@ -1,4 +1,4 @@
-# 
+# VIP BugSentinel installer. Download and install with python-compatible and gui-available — fast, secure, and easy to use.
 
 
 
